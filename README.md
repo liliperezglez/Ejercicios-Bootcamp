@@ -1,4 +1,5 @@
-Este repositorio incluye todos los ejercicios prácticos del Bootcamp de HAB. 
+Este repositorio incluye todos los ejercicios prácticos del Bootcamp de HACK A BOSS. Cada ejercicio tiene un 
+README asociado con el correspondiente enunciado. 
 
 Los modulos que se desarrollan son:
 

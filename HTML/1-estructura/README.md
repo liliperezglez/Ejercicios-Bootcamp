@@ -1,4 +1,4 @@
-1. Estructura básica de HTML
+Estructura básica de HTML
 
 Edita el fichero index.html para que tenga una estructura de HTML que represente el esquema de la imagen siguiente:
 
